@@ -1,0 +1,248 @@
+.logo{
+    height: 61px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.li{
+display: inline;
+margin-bottom: 30px;
+font-size: 22px;   
+margin-left: 25px;
+font-family: sans-serif;
+color: rgb(255, 255, 255);
+
+
+}
+.li a{
+color: white;
+}
+.row{
+margin-top: 0;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 25px;
+}
+.h1{
+font-size: 106px;
+font-family: sans-serif;
+text-align: center;
+margin-left: 32px;
+margin-top: 188px;
+color: white;
+text-shadow: 5px 5px 20px #000000;
+
+}
+.ph1{
+font-size: 25px;
+margin-left: 76px;
+margin-top: -40px;
+text-align:center ;
+margin-bottom: 10px;
+color: white;
+text-shadow: 5px 5px 20px #000000;
+font-family: sans-serif;
+}
+.ph12{
+font-size: 25px;
+margin-left: 76px;
+margin-top: 0px;
+text-align:center ;
+margin-bottom: 85px;
+color: white;
+text-shadow: 5px 5px 20px #000000;
+font-family: sans-serif;
+}
+.hb1{
+font-size: 30px;
+padding-left: 20px;
+padding-right: 20px;
+margin-bottom: 167px;
+font-family: sans-serif;
+background-color: transparent;
+color: white;
+border-color: white;
+border-radius: 8px;
+display: inline-flex;
+margin-left: 9px;
+}
+.hb1:hover{
+font-size: 30px;
+padding-left: 20px;
+padding-right: 20px;
+margin-bottom: 167px;
+font-family: sans-serif;
+background-color: rgb(216, 216, 216);
+color: black;
+border-radius: 8px;
+display: inline-flex;
+box-shadow:5px 5px 20px #000000;
+}
+
+
+.bd{
+display: flex;
+font-family: sans-serif;
+justify-content: center;
+
+}
+.h2{
+font-size: 53px;
+text-align: center;
+margin-top: 117px;
+font-family: sans-serif;
+text-shadow: 1px 1px 3px #a7a6a6;
+}
+.ph2{
+text-align: center;
+margin-top: -32px;
+margin-bottom: 70px;
+font-family: sans-serif;
+}
+.table{
+width: fit-content;
+}
+.pic1{
+width: 84.5%;
+padding: 22px;
+
+}
+.pic1:hover{
+width: 69.5%;
+padding: 22px;
+box-shadow: 2px 2px 10px #000;
+}
+
+.tp1{
+font-size: 30px;
+text-align: center;
+margin-top: -20px;
+font-family: sans-serif;
+}
+.price{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin-left: 37px;
+    margin-top: -238px;
+    color: green;
+    text-align: left;
+}
+.price2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin-left: 83px;
+    margin-top: -30px;
+    text-decoration: line-through;
+    color: rgb(248, 48, 48);
+}
+.flname{
+    font-size: 23px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 30px;
+    line-height: 98px;
+}
+.footer{
+    color: white;
+    background-color: #24262b;
+    padding: 70px 0;    
+    font-size: 32px;    
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.footer a{
+    color: rgb(228, 222, 222);
+    font-size: 17px;
+    
+}
+.container{
+    max-width: 1170px;
+    margin: auto;}
+    
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+
+.footer1{
+    text-align: left;
+    box-shadow: 0px 2px 0px #000000;
+
+}
+
+.submit{
+    align-items: center;
+    font-size: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+    margin-top: 30px;
+    background-color: transparent;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px black;
+}
+.submit:hover{
+    align-items: center;
+    font-size: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+    margin-top: 30px;
+    background-color: white;
+    color: black;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgb(247, 94, 94);
+}
+
+.tes{
+    text-align: left;
+    padding: 40px;
+}
+.upper{
+    background-image: url("https://wallpaper.dog/large/17149167.jpg");
+    background-repeat: no-repeat;
+    
+}
+.form1{
+    background-color: aliceblue;
+    padding: 30px;
+    padding-left: 531px;
+    padding-bottom: 113px;
+}
+.devider{
+    font-size: 76px;
+    box-shadow:0px 2px black ;
+    color: aliceblue;
+    
+}
+.tp1{
+    height: 5.5cm;
+    padding: 30px;
+    background-color: aliceblue;
+    
+}
+.tp2{
+    height: 6cm;
+    padding: 30px;
+}
+.tp3{
+    height: 6cm;
+    padding: 30px;
+}
+.tp4{
+    height: 6cm;
+    padding: 30px;
+}
+.tes{
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-top: -38px;
+}
+.para{
+    font-size: 16px;
+    margin-top: -46px;
+
+}
+.divtable{
+    display: flex;
+    justify-content: center;
+}
